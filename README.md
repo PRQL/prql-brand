@@ -30,7 +30,7 @@ see the
 | <img style="margin-left:auto; margin-right:auto; display:block; height:75px" src="./logo/PNG/prql-logo.png" > | <img style="margin-left:auto; margin-right:auto; display:block; height:75px" src="./logo/PNG/prql-wordmark.png" > |
 
 The _logo_ directory contains the **PRQL logo**
-(multi-colored vertical stack of disks with descending white arrow) and
+(multi-colored stack of disks with descending white arrow) and
 **PRQ wordmark** (the logo plus "PRQL") in various graphical formats:
 SVG, PDF, PNG, JPEG, EPS, Ai.
 Each format folder contains graphics with these filenames:
