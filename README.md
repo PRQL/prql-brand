@@ -31,7 +31,7 @@ see the
 
 The _logos_ directory contains the **PRQL logo**
 (multi-colored stack of disks with descending white arrow) and
-**PRQ wordmark** (the logo plus "PRQL") in various graphical formats:
+**PRQL wordmark** (the logo plus "PRQL") in various graphical formats:
 SVG, PDF, PNG, JPEG, EPS, Ai.
 Each format folder contains graphics with these filenames:
 
