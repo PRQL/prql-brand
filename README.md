@@ -27,9 +27,9 @@ see the
 
 | Logo | Wordmark |
 | ---- | -------- |
-| <img style="margin-left:auto; margin-right:auto; display:block; height:75px" src="./logo/PNG/prql-logo.png" > | <img style="margin-left:auto; margin-right:auto; display:block; height:75px" src="./logo/PNG/prql-wordmark.png" > |
+| <img style="margin-left:auto; margin-right:auto; display:block; height:75px" src="./logos/PNG/prql-logo.png" > | <img style="margin-left:auto; margin-right:auto; display:block; height:75px" src="./logos/PNG/prql-wordmark.png" > |
 
-The _logo_ directory contains the **PRQL logo**
+The _logos_ directory contains the **PRQL logo**
 (multi-colored stack of disks with descending white arrow) and
 **PRQ wordmark** (the logo plus "PRQL") in various graphical formats:
 SVG, PDF, PNG, JPEG, EPS, Ai.
@@ -39,20 +39,14 @@ Each format folder contains graphics with these filenames:
 * **prql-wordmark.xxx** - the graphical PRQL logo including "PRQL"
 
 **Font:** The PRQL wordmark uses the
-[Inter](https://fonts.google.com/specimen/Inter)
+[Inter](https://fonts.google.com/specimen/Inter?preview.text=PRQL&preview.text_type=custom)
 Google font in ExtraBold (800) weight.
 
-The images were created as a SVG.
-Each document dimensions were adjusted so they exactly contain the content,
+The images were created as a SVG file.
+Each images's dimensions were adjusted so they exactly contain the content,
 with no "whitespace" surrounding the image.
 That makes it easier to use these images in graphic layout,
 since it's easier to add padding to an image than to remove it.
-
-_Note: Earlier versions of this repo did not
-use consistent naming conventions for the logo files.
-Those files have been updated to use the new font,
-but retain the original dimensions
-for backward compatibility._
 
 ## Tests
 
